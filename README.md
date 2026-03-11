@@ -2,6 +2,10 @@
 
 
 
+
+
+\## About
+
 This repository documents my journey learning software testing.
 
 
@@ -9,6 +13,8 @@ This repository documents my journey learning software testing.
 Started: March 2026
 
 
+
+\## Goals
 
 Topics I will learn:
 
